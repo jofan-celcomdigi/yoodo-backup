@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.yoodo.com.my	TRUE	/	FALSE	1999999999	w_dybeumsUiFWcP	biAQ.mr41zuE7G
+www.yoodo.com.my	TRUE	/	FALSE	1999999999	Wij_DZYCkvKfdJFI	jk%40HIy0o%2AYx%5D
+www.yoodo.com.my	TRUE	/	FALSE	1999999999	Kxtgfzp_JsT	fShn.Ew4GFYXCt9g
+
